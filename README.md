@@ -10,4 +10,4 @@ We augmented the dataset to generate more samples( 4 images from 1 images) by ap
 After augmentaion our dataset consist of more than 250 images for each catageory.
 
 
-Feel free to explore.
+To generate for sample from the current dataset. execute the "ImageAugmentation.ipynb" file in the current repository
